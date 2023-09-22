@@ -1,15 +1,13 @@
-# info
+my approach to addressing potential issues on social media is multi-faceted and is strategically developed to manage concerns in the short, medium, and long term.
 
-my professional journey involves crafting and implementing comprehensive strategies to address live and prospective issues on social media, maintaining brand integrity, and fostering customer engagement.
+#Short-Term:
+In the short run, my immediate focus is always to ensure that all content aligns flawlessly with brand guidelines. I meticulously adjust creatives to resonate well with the brand's essence and promptly correct any grammatical inaccuracies in both English and Arabic. This immediate response ensures that our brand image remains untarnished and consistent across all communications.
 
-# Short-term Strategy:
-In my role at HSBC, immediate action and direct engagements were pivotal. I worked to address real-time issues, maintaining close collaborations with stakeholders and managing our social media outputs meticulously. Concurrently, at AXA Gulf, I monitored corporate social media accounts rigorously, ensuring a positive and proactive online presence and swiftly connecting with over 3,000 audiences within four months.
+#Medium-Term:
+For medium-term concerns, I prioritize coordinating closely with the customer experience teams to resolve any issues raised by customers through social media effectively. By integrating customer feedback and addressing their concerns proactively, we not only enhance customer satisfaction but also strengthen our brand's reputation by demonstrating our commitment to our audience.
 
-# Medium-term Strategy:
-While at Eliqia, my focus was on refining communication strategies through customer feedback and analytics. The integration of insights enabled the anticipation and proactive resolution of potential issues, maintaining the consistency and effectiveness of our engagement strategies. During this period, coordinating and operationalizing strategies with various service providers ensured alignment and seamless implementation of our guidelines and resolutions.
+#Long-Term:
+In the long run, my strategy revolves around optimizing campaign performance by focusing on reducing the Cost Per Lead (CPL) and increasing the conversion rate. By adopting an always-on strategy, I ensure that our campaigns are continually refined and adapted to market changes and consumer preferences, which ultimately aids in proactively mitigating any potential issues that may affect the brand negatively in the future.
 
-# Long-term and “Always-on” Strategies:
-Implementing “always-on” strategies at HSBC was integral to my long-term approach, ensuring sustained, responsive interactions on social media to reinforce our brand presence and responsiveness. Additionally, I concentrated on optimizing social media campaigns regularly, reducing the CPL and improving conversion rates, coupled with structured feedback coordination through a systematic weekly calendar, enabling continuous refinement of our approach and responsiveness.
-
-# Conclusion:
-In summary, my diverse experiences have equipped me with extensive knowledge and skills to formulate, refine, and execute effective strategies on social media platforms. My relentless commitment has been to uphold a positive brand image, strengthen customer trust, and maintain genuine, seamless communication, ensuring adaptability and responsiveness in addressing both live and prospective issues on social media.
+#Conclusion:
+In essence, my strategies are meticulously developed to address potential issues efficiently, ranging from immediate content alignment and correction in the short run, to proactive customer issue resolution in the medium term, and optimizing campaign performance for sustained brand growth in the long term.
